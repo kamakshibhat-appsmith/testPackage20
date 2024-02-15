@@ -3,7 +3,7 @@
   "type": "JS_MODULE",
   "unpublishedModuleInstance": {
     "version": "0.0.3",
-    "name": "JSModule1_1",
+    "name": "test",
     "contextType": "PAGE",
     "pageId": "Page1",
     "inputs": {},
@@ -12,7 +12,7 @@
     "invalids": [],
     "userPermissions": []
   },
-  "id": "Page1_JSModule1_1",
+  "id": "Page1_test",
   "deleted": false,
-  "gitSyncId": "65cdf9ea18e322482188f02d_65cdf9fd18e322482188f03c"
+  "gitSyncId": "65cdfab818e322482188f0ac_65cdfac418e322482188f0c4"
 }

@@ -1,15 +1,15 @@
 {
-  "moduleInstanceId": "Page1_JSModule1_1",
+  "moduleInstanceId": "Page1_test",
   "isPublic": true,
-  "rootModuleInstanceId": "Page1_JSModule1_1",
+  "rootModuleInstanceId": "Page1_test",
   "pluginType": "JS",
   "pluginId": "js-plugin",
   "unpublishedAction": {
     "name": "myFun2",
-    "fullyQualifiedName": "_$JSModule1_1$_JSModule1.myFun2",
+    "fullyQualifiedName": "_$test$_JSModule1.myFun2",
     "pageId": "Page1",
     "contextType": "PAGE",
-    "collectionId": "Page1__$JSModule1_1$_JSModule1",
+    "collectionId": "Page1__$test$_JSModule1",
     "executeOnLoad": false,
     "clientSideExecution": true,
     "isValid": true,
@@ -21,7 +21,7 @@
     "userPermissions": [],
     "createdAt": "2024-02-15T11:12:17Z"
   },
-  "id": "Page1__$JSModule1_1$_JSModule1.myFun2",
+  "id": "Page1__$test$_JSModule1.myFun2",
   "deleted": false,
-  "gitSyncId": "65cdf9ea18e322482188f02d_65cdf9fd18e322482188f042"
+  "gitSyncId": "65cdfab818e322482188f0ac_65cdfac518e322482188f0ca"
 }
